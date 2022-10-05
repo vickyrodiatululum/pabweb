@@ -1,0 +1,15 @@
+body {
+    background-color: whitesmoke;
+
+}
+
+.gambar {
+    float: left;
+    width: 250px;
+    padding-right: 2%;
+    margin: 0px;
+}
+
+.clear {
+    clear: both;
+}
